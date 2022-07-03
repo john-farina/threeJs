@@ -1,0 +1,25 @@
+{
+    "name": "threejs",
+    "version": "1.0.0",
+    "description": "this is where ill *put* my code as i read the ***three.js book***",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack --watch --config webpack.config.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/john-farina/threeJs.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/john-farina/threeJs/issues"
+    },
+    "homepage": "https://github.com/john-farina/threeJs#readme",
+    "devDependencies": {
+        "three": "^0.142.0",
+        "webpack": "^5.73.0",
+        "webpack-cli": "^4.10.0"
+    }
+}
